@@ -1,12 +1,18 @@
-﻿namespace ICE1
+﻿/*
+ * Name: Marley Catsimbras
+ * Date: September 9, 2025
+ * ICE 1
+ */
+
+namespace ICE1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi There!");
-            Console.WriteLine("My Name Is Marley!");
-            Console.WriteLine("I'm exicted to meet you!");
+            string name;
+            name = "Marley";
+            Console.WriteLine(name + "says hello!");
         }
     }
 }
