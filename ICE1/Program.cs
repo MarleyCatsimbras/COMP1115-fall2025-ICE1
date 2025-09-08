@@ -10,9 +10,8 @@ namespace ICE1
     {
         static void Main(string[] args)
         {
-            string name;
-            name = "Marley";
-            Console.WriteLine(name + "says hello!");
+            string name = "Marley";
+            Console.WriteLine(name + " says hello!");
         }
     }
 }
